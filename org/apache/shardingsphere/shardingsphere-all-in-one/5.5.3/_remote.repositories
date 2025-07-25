@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 26 04:18:03 BDT 2025
+shardingsphere-all-in-one-5.5.3.jar>=
+shardingsphere-all-in-one-5.5.3.pom>=
